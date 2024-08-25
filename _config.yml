@@ -11,7 +11,7 @@ github_username: broccolini
 theme_color: light
 
 # Theme
-remote_theme: 'internet-de-france/athena'
+remote_theme: 'sighingnow/jekyll-gitbook'
 baseurl: '/prasvasa_main'
 
 # Defaults
